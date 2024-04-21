@@ -1,6 +1,6 @@
 # Vibratephone app
 
-*Fun app😂*
+*Fun app*
 
 🔴 *It is Built using Java in Android Studio*
 >
